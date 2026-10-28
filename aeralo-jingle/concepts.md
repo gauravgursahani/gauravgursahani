@@ -1,88 +1,104 @@
-# Aeralo Jingle — Concepts v1
+# Aeralo Jingle — Concepts v2 (English)
 
 **Brand:** Aeralo is an online eSIM operator that gives you mobile data in whichever country you travel to.
+**Language:** English is the base language. The jingle should be easy to adapt into other languages.
 **Goal:** memorability first. Build a loop people can't get out of their heads, then attach one simple meaning to it.
 **References:** Idea's "Honey Bunny" (a word sung twice plus a refrain) and Close-Up's "Kya aap Close-Up karte hain?" (a nasal question that dares the listener).
 
-## The strategic insight: the name already rhymes
+## The core hook: "Tokyo… Aeralo"
 
-*Aeralo* ends in **-lo**, which gives us three ready-made rhymes:
-- **hello** ("hello honey bunny" becomes "hello Aeralo"), the first thing you say when you land and call home
-- **chalo** (Hindi for "let's go" or "wherever you go")
-- **cities and countries ending in -o**: Tokyo, Mexico, Morocco, Toronto, Monaco, Chicago, San Francisco, Rio...
+> *Tokyo — Aeralo!*
+> *Mexico — Aeralo!*
 
-**The association to own:** *Aeralo = the "hello" moment the second you land.* No roaming shock, no SIM queue, no Wi-Fi hunting.
+**Why this pairing works:** the rhythm is identical, not just the rhyme.
 
----
+| Word | Syllables | Stress | Ending |
+|---|---|---|---|
+| **TO**-ky-o | 3 | first | -o |
+| **MEX**-i-co | 3 | first | -o |
+| **MON**-a-co | 3 | first | -o |
+| **AE**-ra-lo | 3 | first | -o |
 
-## Concept 1: "Hello Aeralo" (the Honey Bunny loop)
+Aeralo sounds like a destination. Say a city and the brand name echoes it like a call and answer, so every place name becomes a cue for the brand. That's the hook: **the place name triggers the brand.**
 
-**Structure:** a destination sung twice, answered by a fixed refrain.
+> This needs the stress on the first syllable: **"AIR-a-lo"**.
 
-> *Tokyo, Tokyo — hello Aeralo!*
-> *Mexico, Mexico — hello Aeralo!*
-> *Morocco, Morocco — hello Aeralo!*
-> *Jahan bhi chalo — hello Aeralo!*
+**Places that already fit:** Tokyo, Mexico, Monaco (exact match); Rio, Oslo, Cairo, Lagos (two syllables, still loops).
+**Places that need bending** (silly on purpose, like "pumpkin, pumpkin"): *Paris-o, London-o, Bali-o, Dubai-o*.
 
-**Delivery:** childish and bouncy, sung like a playground chant. Make it slightly too cute on purpose, as "pumpkin, pumpkin" was.
-
-**Film idea:** a plane touches down. Phones switch on across the cabin. One passenger sings "Tokyo, Tokyo...", someone two rows back answers "hello Aeralo!", and the whole cabin joins in. Cut to the passenger already on a video call home.
-
-**Why it works:**
-- **It can be extended forever.** Every destination is a new verse.
-- **Places that don't end in -o get bent to fit**, and that's part of the joke: *Paris-o, Paris-o / Bali-lo, Bali-lo / Dubai-lo, Dubai-lo*.
-- **It invites user content.** People sing their own destination, which is a ready-made reel template.
+**Language-agnostic:** the loop is made of place names plus the brand name, so it works in any market unchanged. Only the tagline gets translated.
 
 ---
 
-## Concept 2: "Roaming se darte hain?" (the Close-Up nasal dare)
+## Concept 1: "Hello Aeralo" (the loop)
 
-**Structure:** a nasal question with a rhyming dare.
+> *Tokyo, Tokyo — Aeralo!*
+> *Mexico, Mexico — Aeralo!*
+> *Monaco, Monaco — Aeralo!*
+> *Rio, Rio — hello, Aeralo!*
+>
+> **Wherever you go… Aeralo.**
 
-> *(nasal)* **Kya aap Aeralo karte hain…**
-> **…ya roaming se darte hain?**
+- Each verse is a place sung twice plus the brand name, which is the Honey Bunny structure.
+- "Hello" is optional. It can open or close the loop as the "you've landed and you're online" beat, without loading every line.
+- **Delivery:** childish and bouncy, sung like a playground chant. Make it slightly too cute on purpose.
+- **Film idea:** a plane lands and phones switch on across the cabin. One passenger sings "Tokyo, Tokyo…", another answers "Aeralo!", and the whole cabin joins in. Cut to the passenger already on a video call home.
+- **Easy to extend:** every destination is a new verse. People can sing their own destination, which makes a ready-made reel template.
 
-The same line works as a series of variants:
-> *…ya roaming bill bharte hain?* (or do you pay roaming bills?)
-> *…ya SIM ki line mein marte hain?* (or do you suffer in the SIM queue?)
-> *…ya Wi-Fi dhoondhte phirte hain?* (or do you wander around hunting for Wi-Fi?)
+---
 
-**Delivery:** the nasal twang is the brand asset. Use the same voice in every execution, as Close-Up did.
+## Concept 2: "…or do you roam and owe?" (the Close-Up nasal dare)
 
-**Film idea:** a traveller at a foreign airport is stuck in a SIM-counter queue, holding a phone up for signal, or looking at a huge roaming bill. A nasal voice asks the question out of nowhere. They tap Aeralo and they're online at once.
+> *(nasal)* **Do you Aeralo…**
+> **…or do you roam and owe?**
 
-**What it builds:** a clear enemy (roaming, SIM queues, Wi-Fi hunting) and a choice framed the way Close-Up framed confidence against fear.
+The second line rhymes with "-lo" and swaps to name a different frustration:
+> *…or queue for a SIM? Oh no.* (the SIM-counter queue)
+> *…or hunt for Wi-Fi, door to door?* (looser rhyme, use sparingly)
+> *…or land with no hello?* (no signal when you land)
+
+- **"Roam and owe"** sums up roaming in three words: you travel, and then you pay for it.
+- **Delivery:** the nasal twang is the brand asset. Use the same voice in every execution, as Close-Up did.
 
 ---
 
 ## Concept 3: the hybrid (recommended)
 
-The nasal dare sets up the problem and the loop pays it off.
-
-> *(nasal, problem)* **Kya aap Aeralo karte hain… ya roaming se darte hain?**
+> *(nasal, problem: traveller stuck at an airport SIM counter)*
+> **Do you Aeralo… or do you roam and owe?**
 >
 > *(loop, payoff: plane lands, cabin sings)*
-> *Tokyo, Tokyo — hello Aeralo!*
-> *Mexico, Mexico — hello Aeralo!*
-> *Morocco, Morocco — hello Aeralo!*
+> *Tokyo, Tokyo — Aeralo!*
+> *Mexico, Mexico — Aeralo!*
+> *Monaco, Monaco — Aeralo!*
 >
-> *(sung tagline)* **Jahan chalo… Aeralo.** (Wherever you go… Aeralo.)
+> *(sung tagline)* **Wherever you go… Aeralo.**
 
-**Sonic logo:** a 2-second nasal *"Ae-ra-looo"*, used on app open, connection confirmation and at the end of every ad.
+**Sonic logo:** a 2-second nasal *"Aaair-a-looo"*, used on app open, connection confirmation and at the end of every ad.
 
 ---
+
+## Localising the tagline
+
+The loop stays the same everywhere. Only the tagline is translated, ideally keeping an "-o" rhyme:
+
+| Language | Tagline |
+|---|---|
+| English | *Wherever you go… Aeralo* |
+| Spanish | *Donde vayas… Aeralo* |
+| Hindi | *Jahan chalo… Aeralo* |
+| Italian / Portuguese | *Dovunque vai… Aeralo* / *Aonde for… Aeralo* (needs a native rhyme pass) |
 
 ## Memorability toolkit
 
 | Device | Taken from | Use in Aeralo |
 |---|---|---|
-| Word sung twice + refrain | Honey Bunny | *Tokyo, Tokyo — hello Aeralo* |
-| Silly, cute words | Honey Bunny | Bent place names (*Paris-o, Bali-lo*) |
+| Word sung twice + refrain | Honey Bunny | *Tokyo, Tokyo — Aeralo* |
+| Silly, cute words | Honey Bunny | Bent place names (*Paris-o, Bali-o*) |
 | Nasal voice as a fixed brand asset | Close-Up | The same voice in every ad, plus the sonic logo |
-| Question + dare | Close-Up | *…ya roaming se darte hain?* |
-| Brand name inside the rhyme | Close-Up | *Aeralo / hello / chalo* |
+| Question + dare | Close-Up | *Do you Aeralo… or do you roam and owe?* |
+| Brand name inside the rhyme | Close-Up | *Tokyo / Aeralo / go* |
 
 ## Open questions
-- **Pronunciation:** "AIR-a-lo" or "eh-RA-lo"? The hello rhyme works best with the stress on the last syllable.
-- **Primary market:** Indian outbound travellers only (Hinglish), or global as well (needs an English version of the dare)?
-- **Spot length:** 15s, 30s, or both?
+- Confirm the pronunciation is **"AIR-a-lo"**, with the stress on the first syllable.
+- Spot length: 15s, 30s, or both?

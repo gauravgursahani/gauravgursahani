@@ -1,7 +1,25 @@
 # Aeralo Jingle — Concepts v2 (English)
 
 **Brand:** Aeralo is an online eSIM operator that gives you mobile data in whichever country you travel to.
+**Audience:** global travellers, not any single home market. The two Indian ads are references for how the jingle works (its mechanics), not for who it's aimed at.
 **Language:** English is the base language. The jingle should be easy to adapt into other languages.
+
+## The global insight: the landing ritual
+
+Wherever a traveller is from or going to, the moment the wheels touch down looks the same:
+
+1. **Airplane mode off.** Every phone on the plane wakes up at once.
+2. **Eyes on the signal bars.** A few seconds of quiet worry: will it connect, and will it cost a fortune?
+3. **The same first text, in every language:** *"Landed."*
+
+**Insight:** landing is the one moment every traveller shares, and it's the moment their phone either welcomes them or lets them down.
+**Aeralo's role:** make that moment instant and worry-free. You land, you're online, and you say hello.
+**Creative idea:** turn the landing ritual into a song. The chorus of phones pinging awake becomes the beat, and the destination's name is the first word of the song.
+
+**Why the loop travels:**
+- **Place names are global vocabulary.** "Tokyo" sounds roughly the same to travellers everywhere, so the loop needs no translation.
+- **"Hello" is the most widely understood word in the world**, and it's the first thing you say when you land.
+- **Roaming bills, SIM-counter queues and Wi-Fi hunting** are pain points travellers recognise wherever they come from.
 **Goal:** memorability first. Build a loop people can't get out of their heads, then attach one simple meaning to it.
 **References:** Idea's "Honey Bunny" (a word sung twice plus a refrain) and Close-Up's "Kya aap Close-Up karte hain?" (a nasal question that dares the listener).
 
@@ -42,7 +60,7 @@ Aeralo sounds like a destination. Say a city and the brand name echoes it like a
 - Each verse is a place sung twice plus the brand name, which is the Honey Bunny structure.
 - "Hello" is optional. It can open or close the loop as the "you've landed and you're online" beat, without loading every line.
 - **Delivery:** childish and bouncy, sung like a playground chant. Make it slightly too cute on purpose.
-- **Film idea:** a plane lands and phones switch on across the cabin. One passenger sings "Tokyo, Tokyo…", another answers "Aeralo!", and the whole cabin joins in. Cut to the passenger already on a video call home.
+- **Film idea:** wheels touch down. Airplane mode goes off and phones across the cabin ping awake in rhythm, and those pings become the beat. The passengers come from everywhere: a Brazilian family, a Japanese businesswoman, a German backpacker. One sings "Tokyo, Tokyo…", another answers "Aeralo!", and the whole multilingual cabin joins in. End on a phone screen showing one sent message: *"Landed."*
 - **Easy to extend:** every destination is a new verse. People can sing their own destination, which makes a ready-made reel template.
 
 ---
@@ -86,8 +104,9 @@ The loop stays the same everywhere. Only the tagline is translated, ideally keep
 |---|---|
 | English | *Wherever you go… Aeralo* |
 | Spanish | *Donde vayas… Aeralo* |
-| Hindi | *Jahan chalo… Aeralo* |
-| Italian / Portuguese | *Dovunque vai… Aeralo* / *Aonde for… Aeralo* (needs a native rhyme pass) |
+| Portuguese | *Aonde for… Aeralo* |
+| Italian | *Dovunque vai… Aeralo* |
+| Others | Use a native "wherever you go" line. A native speaker should check the rhyme in each language. |
 
 ## Memorability toolkit
 

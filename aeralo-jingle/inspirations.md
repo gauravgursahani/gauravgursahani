@@ -39,4 +39,4 @@ What makes it work:
 - Put **"Aeralo"** inside the hook itself, the way Close-Up does. Its open vowels (Ae-ra-lo) are easy to sing and stretch.
 - Combine the **playful, hummable, pet-name-style repetition** of Honey Bunny with Close-Up's **nasal, sing-song question-and-dare delivery**.
 - Aim for a short couplet or chant that works as a ringtone or reel audio on its own.
-- Open questions: What category is Aeralo in? Who is the target audience? What language mix (Hindi, English or Hinglish)? How long is the spot (15s, 30s)?
+- Decided: Aeralo is a travel eSIM brand, aimed at **global travellers**. The jingle is in **English**, adaptable to other languages. The Indian ads are references for mechanics only.

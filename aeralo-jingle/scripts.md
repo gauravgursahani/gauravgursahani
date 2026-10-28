@@ -1,5 +1,7 @@
 # Aeralo — "Landed" Spot Scripts
 
+> **Superseded:** the current direction is `wave-it.md`.
+
 **Concept:** the landing ritual set to music. The wheels touch down and the phones ping awake. A nasal voice dares the passenger who has no signal. Then the whole cabin sings the "Tokyo… Aeralo" loop.
 **Pronunciation:** **AIR-a-lo**, with the stress on the first syllable.
 **Voices:**

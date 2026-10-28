@@ -1,5 +1,7 @@
 # Aeralo Jingle — Concepts v2 (English)
 
+> **Superseded:** the current direction is `wave-it.md`.
+
 **Brand:** Aeralo is an online eSIM operator that gives you mobile data in whichever country you travel to.
 **Audience:** global travellers, not any single home market. The two Indian ads are references for how the jingle works (its mechanics), not for who it's aimed at.
 **Language:** English is the base language. The jingle should be easy to adapt into other languages.

@@ -13,6 +13,14 @@ What makes it work:
 - **Everyday, playful tone:** light, a bit goofy, warm. It doesn't take itself seriously.
 - **Spread by people:** it was widely hummed, shared and parodied in India.
 
+Lyric fragments as the user remembers them:
+
+> *You're my pumpkin, pumpkin — hello, honey bunny*
+> *I'm your dumpling, dumpling — hello, honey bunny*
+> *... toko, toko ...*
+
+Structure: two cutesy pet names, each sung twice (*pumpkin, pumpkin* / *dumpling, dumpling*). Each one is answered by a fixed refrain (*hello, honey bunny*). The words are childish, almost baby-talk, and are meant to make you smile. Each line has the same shape: **doubled word followed by the refrain.**
+
 Note: these are the hook mechanics. The ad's exact scenario and storyline still need the user to confirm.
 
 ## 2. Close-Up Toothpaste — "Kya aap Close-Up karte hain?"
